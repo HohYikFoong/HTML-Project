@@ -1,2 +1,2 @@
 # tips
-click to visit website: https://github.com/HohYikFoong/HTML-Project/blob/main/AOT/main.html
+click to visit website: https://hohyikfoong.github.io/HTML-Project/
